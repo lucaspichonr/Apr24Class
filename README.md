@@ -8,6 +8,8 @@ Welcome to my repository for the `NU FinTech Bootcamp`
 
 *This will be italics*
 
+Updating on laptop
+
 ---
 
 **This will be bold**
