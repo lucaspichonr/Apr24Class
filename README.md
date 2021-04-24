@@ -20,3 +20,7 @@ print ("welcome to fintech!")
 ---
 
 [Linkedin](https://www.linkedin.com/in/lucaspichonr/)
+
+---
+
+![BocaJuniors](http://cdn.sportspromedia.com/images/made/images/uploads/news/BocaAdidas_600_389.jpg)
