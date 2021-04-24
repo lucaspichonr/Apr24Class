@@ -19,4 +19,4 @@ print ("welcome to fintech!")
 
 ---
 
-[Linkedin] (https://www.linkedin.com/in/lucaspichonr/)
+[Linkedin](https://www.linkedin.com/in/lucaspichonr/)
