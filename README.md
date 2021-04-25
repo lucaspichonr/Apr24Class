@@ -8,7 +8,7 @@ Welcome to my repository for the `NU FinTech Bootcamp`
 
 *This will be italics*
 
-Updating on laptop again
+updating from my pc with no help
 
 ---
 
